@@ -13,9 +13,4 @@ describe('Demo calculator tests', function () {
         browser.sleep(2000);
     });
 
-    //another test
-    //it('substraction test', function(){
-
-
-    // });
 });
